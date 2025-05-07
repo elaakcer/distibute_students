@@ -8,8 +8,5 @@ Unit Tests: Includes tests to verify the algorithm works correctly.
 
 GitHub Actions: Automatically runs tests on every push.
 
-GitHub Actions
-GitHub Actions automatically runs the tests on every push.
-
 Acknowledgments
 AI assistance was used during the development, particularly for algorithm implementation and GitHub Actions configuration.
